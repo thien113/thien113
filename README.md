@@ -6,7 +6,7 @@ A Fullstackdeveloper and self-development blogger.
 
 - 🌱 I currently polishing my skills in Vue.js, React.js and Node.js
 - 📝 I post articles on [Please-your-mind](https://www.please-your-mind.com) about self-development.
-- 📫 You can reach me over my [Homepage](https://www.thien-vu.de)
+- 📫 You can reach me over my [homepage](https://www.thien-vu.de)
 - 💼 any freelance work? reach me on, [email](mailto:thien113yourwebdeveloper@gmail.com) :)
 
 ## Tech-Stack
